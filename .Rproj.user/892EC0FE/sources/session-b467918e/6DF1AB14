@@ -1,9 +1,9 @@
 {
     "id": "6DF1AB14",
-    "path": "~/ehuang-fish.github.io/_quarto.yml",
+    "path": "C:/Users/eh978/OneDrive/Desktop/Project Horizon/week_6/ehuang-fish.github.io/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "718924170",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1790284110141.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,13",
+        "cursorPosition": "8,23",
         "scrollLine": "0"
     },
     "folds": "",
